@@ -1,3 +1,13 @@
+I was following along with this video on [How to build a basic web3 app on Flow](https://www.youtube.com/watch?v=uEoh9SnjqCk). I wasn't able to test much without a digital wallet to connect. Some other links that looked promising to help create a basic app and/or marketplace on the Flow blockchain:
+- [Hello World Pt. 1 - Basics](https://developers.flow.com/build/getting-started/quickstarts/hello-world)
+- [Getting Started with the Flow Blockchain](https://nftschool.dev/tutorial/flow-nft-marketplace/)
+- [Build your own NFT Marketplace in 10 minutes](https://flow.com/post/nft-marketplace-video-tutorial-flow-blockchain-build-develop-kitty-items)
+- [Building a Flow NFT pet store](https://nftschool.dev/tutorial/flow-nft-marketplace/)
+
+Mr. Kost gave direction to move forward with building the app on another blockchain ([FameForgeNFT](https://github.com/Sports-Media-Interns/FameForgeNFT)). As a result, work on this app stopped as of April 22, 2024.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
